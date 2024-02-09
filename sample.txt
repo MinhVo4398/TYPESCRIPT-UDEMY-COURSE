@@ -1,0 +1,9 @@
+Tuple vs Array
+
+1) Type Consistency
+2) Type Safety
+3) Mutability (do not allow change type in Tuple)
+4) Use Cases
+
+Note:  The difference between tuples and arrays in TypeScript is that tuples are more strict and precise than arrays. Tuples can store only a fixed number of elements and types at each index, 
+while arrays can store any combination of types and the order is not important.

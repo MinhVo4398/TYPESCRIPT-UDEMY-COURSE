@@ -39,4 +39,4 @@ console.log(filteredArray);
 
 //Read Only Arrays
 const readOnlyArray:readonly number[] = [1,2,3];
-readOnlyArray[0] = 2; // not allowd to modify due to readonly
+//readOnlyArray[0] = 2; // not allowed to modify because readonly
